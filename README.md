@@ -1,6 +1,6 @@
 # HopeInHollywoodDigital_VirticalSlice_pt2
  
-Play Me: 
+Play Me: https://pricea21.github.io/HopeInHollywoodDigital_VirticalSlice_pt2/
 
 Puzzle Maze Tutorial: https://www.youtube.com/watch?v=yGidpBVWPx0 
 
