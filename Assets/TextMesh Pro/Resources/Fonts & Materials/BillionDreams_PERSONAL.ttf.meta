@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ceb28b750a4fd654b901001caed11da5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Billion Dreams
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 63166dc52c599454a9eca412fbdc34e8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
